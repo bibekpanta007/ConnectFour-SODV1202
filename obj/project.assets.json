@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\bibek\\OneDrive\\Desktop\\BVC 2 Semester\\SODV1202\\Connect Four\\Connect_Four.csproj",
+      "projectUniqueName": "C:\\Users\\bibek\\OneDrive\\Desktop\\BVC 2 Semester\\SODV1202\\Connect_Four\\Connect_Four.csproj",
       "projectName": "Connect_Four",
-      "projectPath": "C:\\Users\\bibek\\OneDrive\\Desktop\\BVC 2 Semester\\SODV1202\\Connect Four\\Connect_Four.csproj",
+      "projectPath": "C:\\Users\\bibek\\OneDrive\\Desktop\\BVC 2 Semester\\SODV1202\\Connect_Four\\Connect_Four.csproj",
       "packagesPath": "C:\\Users\\bibek\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\bibek\\OneDrive\\Desktop\\BVC 2 Semester\\SODV1202\\Connect Four\\obj\\",
+      "outputPath": "C:\\Users\\bibek\\OneDrive\\Desktop\\BVC 2 Semester\\SODV1202\\Connect_Four\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

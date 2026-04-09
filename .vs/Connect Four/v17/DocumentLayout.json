@@ -1,34 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\bibek\\OneDrive\\Desktop\\BVC 2 Semester\\SODV1202\\Connect Four\\",
+  "WorkspaceRootPath": "C:\\Users\\bibek\\OneDrive\\Desktop\\BVC 2 Semester\\SODV1202\\Connect_Four\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B1507D00-A26C-43F8-AC13-EC3A48F669AF}|Connect_Four.csproj|c:\\users\\bibek\\onedrive\\desktop\\bvc 2 semester\\sodv1202\\connect four\\connect_four.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{B1507D00-A26C-43F8-AC13-EC3A48F669AF}|Connect_Four.csproj|c:\\users\\bibek\\onedrive\\desktop\\bvc 2 semester\\sodv1202\\connect_four\\connect_four.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{B1507D00-A26C-43F8-AC13-EC3A48F669AF}|Connect_Four.csproj|solutionrelative:connect_four.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B1507D00-A26C-43F8-AC13-EC3A48F669AF}|Connect Four.csproj|c:\\users\\bibek\\onedrive\\desktop\\bvc 2 semester\\sodv1202\\connect four\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B1507D00-A26C-43F8-AC13-EC3A48F669AF}|Connect Four.csproj|solutionrelative:controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B1507D00-A26C-43F8-AC13-EC3A48F669AF}|Connect_Four.csproj|c:\\users\\bibek\\onedrive\\desktop\\bvc 2 semester\\sodv1202\\connect_four\\humanplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1507D00-A26C-43F8-AC13-EC3A48F669AF}|Connect_Four.csproj|solutionrelative:humanplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B1507D00-A26C-43F8-AC13-EC3A48F669AF}|Connect Four.csproj|c:\\users\\bibek\\onedrive\\desktop\\bvc 2 semester\\sodv1202\\connect four\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B1507D00-A26C-43F8-AC13-EC3A48F669AF}|Connect Four.csproj|solutionrelative:player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B1507D00-A26C-43F8-AC13-EC3A48F669AF}|Connect_Four.csproj|c:\\users\\bibek\\onedrive\\desktop\\bvc 2 semester\\sodv1202\\connect_four\\controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1507D00-A26C-43F8-AC13-EC3A48F669AF}|Connect_Four.csproj|solutionrelative:controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B1507D00-A26C-43F8-AC13-EC3A48F669AF}|Connect Four.csproj|c:\\users\\bibek\\onedrive\\desktop\\bvc 2 semester\\sodv1202\\connect four\\humanplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B1507D00-A26C-43F8-AC13-EC3A48F669AF}|Connect Four.csproj|solutionrelative:humanplayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B1507D00-A26C-43F8-AC13-EC3A48F669AF}|Connect_Four.csproj|c:\\users\\bibek\\onedrive\\desktop\\bvc 2 semester\\sodv1202\\connect_four\\view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1507D00-A26C-43F8-AC13-EC3A48F669AF}|Connect_Four.csproj|solutionrelative:view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B1507D00-A26C-43F8-AC13-EC3A48F669AF}|Connect Four.csproj|c:\\users\\bibek\\onedrive\\desktop\\bvc 2 semester\\sodv1202\\connect four\\view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B1507D00-A26C-43F8-AC13-EC3A48F669AF}|Connect Four.csproj|solutionrelative:view.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B1507D00-A26C-43F8-AC13-EC3A48F669AF}|Connect_Four.csproj|c:\\users\\bibek\\onedrive\\desktop\\bvc 2 semester\\sodv1202\\connect_four\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1507D00-A26C-43F8-AC13-EC3A48F669AF}|Connect_Four.csproj|solutionrelative:player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B1507D00-A26C-43F8-AC13-EC3A48F669AF}|Connect Four.csproj|c:\\users\\bibek\\onedrive\\desktop\\bvc 2 semester\\sodv1202\\connect four\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B1507D00-A26C-43F8-AC13-EC3A48F669AF}|Connect Four.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B1507D00-A26C-43F8-AC13-EC3A48F669AF}|Connect_Four.csproj|c:\\users\\bibek\\onedrive\\desktop\\bvc 2 semester\\sodv1202\\connect_four\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1507D00-A26C-43F8-AC13-EC3A48F669AF}|Connect_Four.csproj|solutionrelative:model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B1507D00-A26C-43F8-AC13-EC3A48F669AF}|Connect Four.csproj|c:\\users\\bibek\\onedrive\\desktop\\bvc 2 semester\\sodv1202\\connect four\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B1507D00-A26C-43F8-AC13-EC3A48F669AF}|Connect Four.csproj|solutionrelative:model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B1507D00-A26C-43F8-AC13-EC3A48F669AF}|Connect_Four.csproj|c:\\users\\bibek\\onedrive\\desktop\\bvc 2 semester\\sodv1202\\connect_four\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1507D00-A26C-43F8-AC13-EC3A48F669AF}|Connect_Four.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -74,24 +74,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "View.cs",
-              "DocumentMoniker": "C:\\Users\\bibek\\OneDrive\\Desktop\\BVC 2 Semester\\SODV1202\\Connect Four\\View.cs",
+              "DocumentMoniker": "C:\\Users\\bibek\\OneDrive\\Desktop\\BVC 2 Semester\\SODV1202\\Connect_Four\\View.cs",
               "RelativeDocumentMoniker": "View.cs",
-              "ToolTip": "C:\\Users\\bibek\\OneDrive\\Desktop\\BVC 2 Semester\\SODV1202\\Connect Four\\View.cs",
+              "ToolTip": "C:\\Users\\bibek\\OneDrive\\Desktop\\BVC 2 Semester\\SODV1202\\Connect_Four\\View.cs",
               "RelativeToolTip": "View.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-28T01:51:13.994Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-28T01:51:13.994Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "HumanPlayer.cs",
-              "DocumentMoniker": "C:\\Users\\bibek\\OneDrive\\Desktop\\BVC 2 Semester\\SODV1202\\Connect Four\\HumanPlayer.cs",
+              "DocumentMoniker": "C:\\Users\\bibek\\OneDrive\\Desktop\\BVC 2 Semester\\SODV1202\\Connect_Four\\HumanPlayer.cs",
               "RelativeDocumentMoniker": "HumanPlayer.cs",
-              "ToolTip": "C:\\Users\\bibek\\OneDrive\\Desktop\\BVC 2 Semester\\SODV1202\\Connect Four\\HumanPlayer.cs",
+              "ToolTip": "C:\\Users\\bibek\\OneDrive\\Desktop\\BVC 2 Semester\\SODV1202\\Connect_Four\\HumanPlayer.cs",
               "RelativeToolTip": "HumanPlayer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -100,37 +99,35 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Player.cs",
-              "DocumentMoniker": "C:\\Users\\bibek\\OneDrive\\Desktop\\BVC 2 Semester\\SODV1202\\Connect Four\\Player.cs",
+              "DocumentMoniker": "C:\\Users\\bibek\\OneDrive\\Desktop\\BVC 2 Semester\\SODV1202\\Connect_Four\\Player.cs",
               "RelativeDocumentMoniker": "Player.cs",
-              "ToolTip": "C:\\Users\\bibek\\OneDrive\\Desktop\\BVC 2 Semester\\SODV1202\\Connect Four\\Player.cs",
+              "ToolTip": "C:\\Users\\bibek\\OneDrive\\Desktop\\BVC 2 Semester\\SODV1202\\Connect_Four\\Player.cs",
               "RelativeToolTip": "Player.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-28T01:50:31.131Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-28T01:50:31.131Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "Model.cs",
-              "DocumentMoniker": "C:\\Users\\bibek\\OneDrive\\Desktop\\BVC 2 Semester\\SODV1202\\Connect Four\\Model.cs",
+              "DocumentMoniker": "C:\\Users\\bibek\\OneDrive\\Desktop\\BVC 2 Semester\\SODV1202\\Connect_Four\\Model.cs",
               "RelativeDocumentMoniker": "Model.cs",
-              "ToolTip": "C:\\Users\\bibek\\OneDrive\\Desktop\\BVC 2 Semester\\SODV1202\\Connect Four\\Model.cs",
+              "ToolTip": "C:\\Users\\bibek\\OneDrive\\Desktop\\BVC 2 Semester\\SODV1202\\Connect_Four\\Model.cs",
               "RelativeToolTip": "Model.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-28T01:50:03.958Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-28T01:50:03.958Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Controller.cs",
-              "DocumentMoniker": "C:\\Users\\bibek\\OneDrive\\Desktop\\BVC 2 Semester\\SODV1202\\Connect Four\\Controller.cs",
+              "DocumentMoniker": "C:\\Users\\bibek\\OneDrive\\Desktop\\BVC 2 Semester\\SODV1202\\Connect_Four\\Controller.cs",
               "RelativeDocumentMoniker": "Controller.cs",
-              "ToolTip": "C:\\Users\\bibek\\OneDrive\\Desktop\\BVC 2 Semester\\SODV1202\\Connect Four\\Controller.cs",
+              "ToolTip": "C:\\Users\\bibek\\OneDrive\\Desktop\\BVC 2 Semester\\SODV1202\\Connect_Four\\Controller.cs",
               "RelativeToolTip": "Controller.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -141,9 +138,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Connect_Four.csproj",
-              "DocumentMoniker": "C:\\Users\\bibek\\OneDrive\\Desktop\\BVC 2 Semester\\SODV1202\\Connect Four\\Connect_Four.csproj",
+              "DocumentMoniker": "C:\\Users\\bibek\\OneDrive\\Desktop\\BVC 2 Semester\\SODV1202\\Connect_Four\\Connect_Four.csproj",
               "RelativeDocumentMoniker": "Connect_Four.csproj",
-              "ToolTip": "C:\\Users\\bibek\\OneDrive\\Desktop\\BVC 2 Semester\\SODV1202\\Connect Four\\Connect_Four.csproj",
+              "ToolTip": "C:\\Users\\bibek\\OneDrive\\Desktop\\BVC 2 Semester\\SODV1202\\Connect_Four\\Connect_Four.csproj",
               "RelativeToolTip": "Connect_Four.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -152,16 +149,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\bibek\\OneDrive\\Desktop\\BVC 2 Semester\\SODV1202\\Connect Four\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\bibek\\OneDrive\\Desktop\\BVC 2 Semester\\SODV1202\\Connect_Four\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\bibek\\OneDrive\\Desktop\\BVC 2 Semester\\SODV1202\\Connect Four\\Program.cs",
+              "ToolTip": "C:\\Users\\bibek\\OneDrive\\Desktop\\BVC 2 Semester\\SODV1202\\Connect_Four\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-02-28T01:44:13.559Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-02-28T01:44:13.559Z"
             }
           ]
         }
