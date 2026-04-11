@@ -14,6 +14,8 @@ namespace Connect_Four
             model = new Model();
             view = new View();
 
+            // Inheritance + Polymorphism:
+            // HumanPlayer objects are stored as Player references
             player1 = new HumanPlayer("Player 1", 'X');
             player2 = new HumanPlayer("Player 2", 'O');
         }
@@ -24,11 +26,12 @@ namespace Connect_Four
 
             while (playAgain)
             {
-                model = new Model(); // reset board
+                model = new Model(); // reset board for new game
                 Player currentPlayer = player1;
                 bool gameOver = false;
 
                 view.ShowMessage("Welcome to Connect Four!");
+                view.ShowMessage("Player 1 = X, Player 2 = O");
 
                 while (!gameOver)
                 {
@@ -52,19 +55,20 @@ namespace Connect_Four
                         }
                         else
                         {
+                            // switch turns
                             currentPlayer = (currentPlayer == player1) ? player2 : player1;
                         }
                     }
                     else
                     {
-                        view.ShowMessage("Column full or invalid move. Try again.");
+                        view.ShowMessage("Invalid move. Column is full or out of range. Try again.");
                     }
                 }
 
-                Console.WriteLine("Play again? (y/n): ");
-                string input = Console.ReadLine().ToLower();
+                Console.Write("Play again? (y/n): ");
+                string input = Console.ReadLine();
 
-                if (input != "y")
+                if (input == null || input.ToLower() != "y")
                 {
                     playAgain = false;
                 }
