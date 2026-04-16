@@ -4,22 +4,28 @@ namespace Connect_Four
 {
     internal class View
     {
-        public void ShowMessage(string message)
-        {
-            Console.WriteLine(message);
-        }
-
-        // Optional: display board for later
         public void DisplayBoard(char[,] board)
         {
-            for (int i = 0; i < board.GetLength(0); i++)
+            Console.WriteLine();
+
+            for (int i = 0; i < 6; i++)
             {
-                for (int j = 0; j < board.GetLength(1); j++)
+                Console.Write("| ");
+                for (int j = 0; j < 7; j++)
                 {
                     Console.Write(board[i, j] + " ");
                 }
-                Console.WriteLine();
+                Console.WriteLine("|");
             }
+
+            Console.WriteLine("-----------------");
+            Console.WriteLine("  1 2 3 4 5 6 7");
+            Console.WriteLine();
+        }
+
+        public void ShowMessage(string message)
+        {
+            Console.WriteLine(message);
         }
     }
 }
