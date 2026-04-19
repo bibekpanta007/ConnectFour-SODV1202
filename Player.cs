@@ -1,5 +1,6 @@
 ﻿namespace Connect_Four
 {
+    // Abstraction: Player defines what a player must do
     internal abstract class Player
     {
         public string Name { get; set; }
@@ -11,6 +12,7 @@
             Symbol = symbol;
         }
 
+        // Polymorphism: different players can implement this differently
         public abstract int MakeMove();
     }
 }

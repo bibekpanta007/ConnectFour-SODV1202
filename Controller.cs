@@ -14,8 +14,6 @@ namespace Connect_Four
             model = new Model();
             view = new View();
 
-            // Inheritance + Polymorphism:
-            // HumanPlayer objects are stored as Player references
             player1 = new HumanPlayer("Player 1", 'X');
             player2 = new HumanPlayer("Player 2", 'O');
         }
@@ -26,7 +24,7 @@ namespace Connect_Four
 
             while (playAgain)
             {
-                model = new Model(); // reset board for new game
+                model = new Model();
                 Player currentPlayer = player1;
                 bool gameOver = false;
 
@@ -36,6 +34,7 @@ namespace Connect_Four
                 while (!gameOver)
                 {
                     view.DisplayBoard(model.Board);
+                    view.ShowMessage($"{currentPlayer.Name}'s turn ({currentPlayer.Symbol})");
 
                     int column = currentPlayer.MakeMove();
 
@@ -55,7 +54,6 @@ namespace Connect_Four
                         }
                         else
                         {
-                            // switch turns
                             currentPlayer = (currentPlayer == player1) ? player2 : player1;
                         }
                     }
@@ -66,12 +64,9 @@ namespace Connect_Four
                 }
 
                 Console.Write("Play again? (y/n): ");
-                string input = Console.ReadLine();
+                string? input = Console.ReadLine();
 
-                if (input == null || input.ToLower() != "y")
-                {
-                    playAgain = false;
-                }
+                playAgain = input != null && input.ToLower() == "y";
             }
 
             view.ShowMessage("Thanks for playing!");

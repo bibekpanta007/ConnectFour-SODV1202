@@ -2,6 +2,7 @@
 
 namespace Connect_Four
 {
+    // Inheritance: HumanPlayer inherits from Player
     internal class HumanPlayer : Player
     {
         public HumanPlayer(string name, char symbol)
@@ -9,6 +10,7 @@ namespace Connect_Four
         {
         }
 
+        // Polymorphism: overriding MakeMove method
         public override int MakeMove()
         {
             while (true)
